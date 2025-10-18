@@ -1,7 +1,7 @@
 {
   "app-id" : "io.github.idevecore.Valuta",
   "runtime" : "org.gnome.Platform",
-  "runtime-version" : "47",
+  "runtime-version" : "48",
   "sdk" : "org.gnome.Sdk",
   "command" : "valuta",
   "finish-args" : [
@@ -20,8 +20,8 @@
         {
           "type": "git",
           "url": "https://gitlab.gnome.org/jwestman/blueprint-compiler",
-          "tag": "v0.16.0",
-          "commit": "04ef0944db56ab01307a29aaa7303df6067cb3c0"
+          "tag": "v0.18.0",
+          "commit": "07c9c9df9cd1b6b4454ecba21ee58211e9144a4b"
         }
       ]
     },
@@ -47,7 +47,7 @@
         {
           "type": "git",
           "url": "https://github.com/ideveCore/Valuta.git",
-          "commit": "8dfbf5ef226dce9618e00943e8c444aaddd6c368"
+          "commit": "8aded1bec44aea8be5eeb1e98ea2fc121d8c9248"
         }
       ]
     }
